@@ -1,4 +1,4 @@
-# YelpCamp
+# ShareCamp
 
 •	Implemented a full-stack web application with Node.js, Express and MongoDB.
 
@@ -8,12 +8,6 @@
 
 •	Used APIs of Google Map, OpenWeatherMap to show the information about location and weather condition of campgrounds.
 
-
-
-
-1. 
-
-2. 
 
 
 
